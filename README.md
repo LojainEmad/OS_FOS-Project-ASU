@@ -6,3 +6,5 @@
 4-Fault Handler.
 
 ```
+
+![9233847_4120254](https://github.com/user-attachments/assets/6427621a-8bb8-4530-8b09-658f47abe16e)
