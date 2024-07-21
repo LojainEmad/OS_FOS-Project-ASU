@@ -7,4 +7,6 @@
 
 ```
 
-<img src="https://github.com/user-attachments/assets/6427621a-8bb8-4530-8b09-658f47abe16e" width="200" height="200">
+<div style="text-align:center;">
+    <img src="https://github.com/user-attachments/assets/6427621a-8bb8-4530-8b09-658f47abe16e" width="300" height="300">
+</div>
